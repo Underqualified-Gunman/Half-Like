@@ -1,0 +1,58 @@
+//WEAPONS
+//$random misc/w_pkup	{misc/weapondraw1 misc/weapondraw2 misc/weapondraw3 misc/weapondraw4 misc/weapondraw5 misc/weapondraw6 misc/weapondraw7}
+//misc/weapondraw1 WEPDRAW1
+//misc/weapondraw2 WEPDRAW2
+//misc/weapondraw3 WEPDRAW3
+//misc/weapondraw4 WEPDRAW4
+//misc/weapondraw5 WEPDRAW5
+//misc/weapondraw6 WEPDRAW6
+//misc/weapondraw7 WEPDRAW7
+
+//SG SADDLE
+//$random weapons/pocket	{weapons/pocket1 weapons/pocket2}
+//weapons/pocket1 PPOCKET1
+//weapons/pocket2 PPOCKET2
+
+//HUNTER
+//weapons/hunter			SHOTFIRE
+
+//weapons/huntrack		SHOTPUMP
+//weapons/huntrackup  	SHOTPUM1
+//weapons/huntrackdown  	SHOTPUM2
+//weapons/huntopen		SHOTOPEN
+
+//world/shotgunfar		SHOTFDIS
+//	$volume world/shotgunfar 0.5
+	
+//PISTOL
+//weapons/pistol			PISTFIRE
+//weapons/pismagclick		PISTMAGO
+//weapons/pistoldry		PISTEMPT
+//weapons/pischamber1		PISTMAGI
+//weapons/pischamber2		PISTSLID
+
+//SMG
+//weapons/smg				SUMGFIRE
+//weapons/smgchamber		SUMGCHAM
+//weapons/smgmagclick		SUMGCLIK
+//weapons/smgmagmove		SUMGLOAD
+
+//RELOADS
+//$random weapons/huntreload	{misc/huntrel1}
+//misc/huntrel1 SHOTLOD1
+
+//$random misc/casing2 {misc/shotgunshell1 misc/shotgunshell2 misc/shotgunshell3 misc/shotgunshell4 misc/shotgunshell5 misc/shotgunshell6}
+//misc/shotgunshell1 SHTGSHL1
+//misc/shotgunshell2 SHTGSHL2
+//misc/shotgunshell3 SHTGSHL3
+//misc/shotgunshell4 SHTGSHL4
+//missc/shotgunshell5 SHTGSHL5
+//misc/shotgunshell6 SHTGSHL6
+
+//$random misc/casing3 {misc/9mmcasing1 misc/9mmcasing2 misc/9mmcasing3 misc/9mmcasing4 misc/9mmcasing5 misc/9mmcasing6}
+//misc/9mmcasing1 9MMSHEL1
+//misc/9mmcasing2 9MMSHEL2
+//misc/9mmcasing3 9MMSHEL3
+//misc/9mmcasing4 9MMSHEL4
+//misc/9mmcasing5 9MMSHEL5
+//misc/9mmcasing6 9MMSHEL6

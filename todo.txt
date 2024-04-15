@@ -1,0 +1,45 @@
+Half life reskin project To do list
+has 3 parts
+reskin, hhx hud, player skin
+
+RESKIN TO DO
+
+finish inital merge
+
+
+make gonne-6 for bronto
+get g36 zm66 sprite setup and cut
+look into new ar2 for vulc?
+gldefs for batteries based on how much charge is left EG full charge has green light and is brightest, while yellow is inbetween and red is the dimmist of the 3
+
+number s HL1's or HL2 Beta nixie numbers?
+source from hl1 mmod for the latter?
+
+
+emmy crowbar is reskined to be a crowbar 
+liberator needs scope mounted on it and current set is for the ironsight liberator
+
+
+llm is the hl1 flashlight icon
+HUD TO DO
+
+
+
+
+
+
+PLAYER SKIN TO DO
+make the ross scott player sfx replacer into a skin
+make HL1 Health cross a Mugshot
+
+edit up set of helmetless genric hecu death frames from the shepard death sprites
+
+
+make medic variant
+
+make engineer variant
+
+
+
+// othere
+deployable camera that is mounted to cieling,  has a very large screen and can be aimed pressing fire activates things it aims at. drains battery when left on, alt fire to disable like the herp, perhaps  have a ping abilty with it? or a spot light mode?

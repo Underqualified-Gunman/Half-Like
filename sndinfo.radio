@@ -1,0 +1,8 @@
+//weapons/fragpinin    dssgcock
+//weapons/fragpinout   dsrifclk
+//weapons/fragspoonoff dstink
+
+//"misc/p_pkup" "dead_radio.ogg"
+pickups/talisman    "sounds/dead_radio.ogg"
+ghost/useitem  "sounds/dead_radio.ogg"
+$pitchset ghost/useitem 1.0

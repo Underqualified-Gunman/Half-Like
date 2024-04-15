@@ -1,0 +1,74 @@
+humanoid/step1 "sounds/footsteps/pl_step1.wav" $attenuation humanoid/step1 1.2
+humanoid/step2 "sounds/footsteps/pl_step2.wav" $attenuation humanoid/step2 1.2
+humanoid/step3 "sounds/footsteps/pl_step3.wav" $attenuation humanoid/step3 1.2
+humanoid/step4 "sounds/footsteps/pl_step4.wav" $attenuation humanoid/step4 1.2
+
+humanoid/squishstep1 "sounds/footsteps/pl_slosh1.wav" $attenuation humanoid/squishstep1 1.2
+humanoid/squishstep2 "sounds/footsteps/pl_slosh2.wav" $attenuation humanoid/squishstep2 1.2
+humanoid/squishstep3 "sounds/footsteps/pl_slosh3.wav" $attenuation humanoid/squishstep3 1.2
+humanoid/squishstep4 "sounds/footsteps/pl_slosh4.wav" $attenuation humanoid/squishstep4 1.2
+
+$random humanoid/step
+{
+	humanoid/step1
+	humanoid/step2
+	humanoid/step3
+	humanoid/step4
+}
+
+$random humanoid/squishstep
+{
+	humanoid/squishstep1
+	humanoid/squishstep2
+	humanoid/squishstep3
+	humanoid/squishstep4
+}
+
+$volume humanoid/squishstep 0.35
+
+imp/step1 "sounds/footsteps/pl_dirt1.wav" $attenuation imp/step1 1.4 $pitchset imp/step1 1.5
+imp/step2 "sounds/footsteps/pl_dirt2.wav" $attenuation imp/step2 1.4 $pitchset imp/step2 1.5
+imp/step3 "sounds/footsteps/pl_dirt3.wav" $attenuation imp/step3 1.4 $pitchset imp/step3 1.5
+imp/step4 "sounds/footsteps/pl_dirt4.wav" $attenuation imp/step4 1.4 $pitchset imp/step4 1.5
+
+$random imp/step
+{
+	imp/step1
+	imp/step2
+	imp/step3
+	imp/step4
+}
+
+$volume imp/step 0.8
+
+$alias babuin/step imp/step
+
+baron/step1 "sounds/footsteps/pl_tile1.wav" $attenuation baron/step1 1.0 $pitchset baron/step1 0.6
+baron/step2 "sounds/footsteps/pl_tile2.wav" $attenuation baron/step2 1.0 $pitchset baron/step2 0.6
+baron/step3 "sounds/footsteps/pl_tile3.wav" $attenuation baron/step3 1.0 $pitchset baron/step3 0.6
+baron/step4 "sounds/footsteps/pl_tile4.wav" $attenuation baron/step4 1.0 $pitchset baron/step4 0.6
+
+$random baron/step
+{
+	baron/step1
+	baron/step2
+	baron/step3
+	baron/step4
+}
+
+$volume baron/step 0.8
+
+mancubus/step1 "sounds/footsteps/pl_tile1.wav" $attenuation mancubus/step1 1.2 $pitchset mancubus/step1 0.4
+mancubus/step2 "sounds/footsteps/pl_tile2.wav" $attenuation mancubus/step2 1.2 $pitchset mancubus/step2 0.4
+mancubus/step3 "sounds/footsteps/pl_tile3.wav" $attenuation mancubus/step3 1.2 $pitchset mancubus/step3 0.4
+mancubus/step4 "sounds/footsteps/pl_tile4.wav" $attenuation mancubus/step4 1.2 $pitchset mancubus/step4 0.4
+
+$random mancubus/step
+{
+	mancubus/step1
+	mancubus/step2
+	mancubus/step3
+	mancubus/step4
+}
+
+$volume mancubus/step 0.9

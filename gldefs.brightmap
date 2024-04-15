@@ -1,0 +1,73 @@
+//HUNTER BASE
+brightmap sprite SHTGA0
+{
+   map brightmaps/filter/HNT_001.png
+}
+brightmap sprite SHTGB0
+{
+   map brightmaps/filter/HNT_002.png
+}
+brightmap sprite SHTGC0
+{
+   map brightmaps/filter/HNT_003.png
+}
+brightmap sprite SHTGD0
+{
+   map brightmaps/filter/HNT_004.png
+}
+brightmap sprite SHTGE0
+{
+   map brightmaps/filter/HNT_005.png
+}
+brightmap sprite SHTGF0
+{
+   map brightmaps/filter/HNT_006.png
+}
+brightmap sprite SHTFA0
+{
+   map brightmaps/filter/HNT_001.png
+}
+brightmap sprite SHTFB0
+{
+   map brightmaps/filter/HNT_001.png
+}
+
+//FIRE BASE
+
+brightmap sprite SHTFA0
+{
+   map brightmaps/muzzle/BMP_002.png
+}
+brightmap sprite SHTFB0
+{
+   map brightmaps/muzzle/BMP_003.png
+}
+
+brightmap sprite HUNTA0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTB0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTC0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTD0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTE0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTF0
+{
+   map brightmaps/pickups/BHT_001.png
+}
+brightmap sprite HUNTG0
+{
+   map brightmaps/pickups/BHT_001.png
+}

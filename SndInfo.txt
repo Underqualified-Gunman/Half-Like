@@ -1,0 +1,157 @@
+//MP5 for SMG
+
+weapons/smg	DSHLHKS1
+$volume weapons/smg 1.0
+
+weapons/smgchamber		DSHLCLI2
+weapons/smgmagclick		DSHLCLI1
+weapons/smgmagmove		DSHLCLR1
+
+//Just incase you're running this outside of HDest
+
+weapons/chngun	DSRIFLE
+
+//Just incase you're running this outside of HDest
+
+weapons/sshotf	DSHDDBA1
+
+//HAssault for Vulcanette
+
+weapons/vulcanette	DSOP4SA1
+weapons/vulcopen1	DSOP4SAO
+weapons/vulcshunt	DSOP4SAC
+
+
+//Medikit Sounds
+
+medikit/scan		DSHLMSCA
+medikit/done		DSHLMDON
+
+// ENEMIES
+
+
+//combine Zombiemans
+
+combine/sight1	HL2GBACK
+combine/sight2	HL2GBOGY
+combine/sight3	HL2GBOSE
+combine/sight4	HL2GCLEA
+combine/sight5	HL2GCOFI
+combine/sight6	HL2GCOVE
+combine/sight7	HL2GGETT
+combine/sight8	HL2GGOGO
+combine/sight9	HL2GHOST
+combine/sight10	HL2GKICK
+combine/sight11	HL2GLEGO
+combine/sight12	HL2GMIST
+combine/sight13	HL2GMOIN
+combine/sight14	HL2GMOVE
+combine/sight15	HL2GNEUT
+combine/sight16	HL2GNOTH
+combine/sight17	HL2GRECO
+combine/sight18	HL2GREQB
+combine/sight19	HL2GTARG
+combine/sight20	HL2GYOBA
+combine/sight21	HL2GGOSH
+combine/sight22	HL2GGXGY
+combine/sight23	HL2GVISC
+combine/sight24	HL2GDISP
+combine/sight25	HL2GDIS2
+combine/sight26	HL2GRIPC
+combine/sight27	HL2GCONT
+combine/sight28	HL2GGSGS
+combine/sight29	HL2GCALT
+combine/sight30	HL2GTRGT
+combine/sight31	HL2GTMRD
+combine/sight32	HL2GCOG2
+combine/sight33	HL2GTGCT
+combine/sight34	HL2GDESG
+combine/sight35	HL2GCOCO
+combine/sight36	HL2GCOPI
+combine/sight37	HL2GCMPM
+combine/sight38	HL2GAFFI
+combine/sight39	HL2GWRAP
+combine/sight40	HL2GSECS
+combine/sight41	HL2GVISX
+combine/sight42	HL2GPOHI
+combine/sight43	HL2GPREP
+combine/sight44	HL2GSKYL
+combine/sight45	HL2GSTAY
+combine/sight46	HL2GWSPC
+combine/sight47	HL2GAPEX
+combine/sight48	HL2GAFM1
+combine/sight49	HL2GAFM2
+combine/sight50	HL2GAFM3
+combine/sight51	HL2GAFM4
+combine/sight52	HL2GAFM5
+combine/pain1	HL2GPIN1	
+combine/pain2	HL2GPIN2
+combine/pain3	HL2GPIN3
+combine/pain4	HL2GPIN4
+combine/pain5	HL2GPIN5
+
+$random wolfss/sight { combine/sight1  combine/sight2  combine/sight3 combine/sight4 combine/sight5 combine/sight6 combine/sight7 combine/sight8 combine/sight9 combine/sight10 combine/sight11 combine/sight12 combine/sight13 combine/sight14 combine/sight15 combine/sight16 combine/sight17 combine/sight18 combine/sight19 combine/sight20 combine/sight21 combine/sight22 combine/sight23 combine/sight24 combine/sight25 combine/sight26 combine/sight27 combine/sight28 combine/sight29 combine/sight30 combine/sight31 combine/sight32 combine/sight33 combine/sight34 combine/sight35 combine/sight36 combine/sight37 combine/sight38 combine/sight39 combine/sight40 combine/sight41 combine/sight42 combine/sight43 combine/sight44 combine/sight45 combine/sight46 combine/sight47 combine/sight48 combine/sight49 combine/sight50 combine/sight51 combine/sight52 }
+
+$random wolfss/pain { combine/pain1  combine/pain2  combine/pain3 combine/pain4 combine/pain5 }
+
+$random wolfss/death { grunt/death1  grunt/death2  grunt/death3 }
+
+//Gonome Babuins
+
+gonome/attack1	DSGNATT1
+gonome/attack2	DSGNATT2
+gonome/attack3	DSGNATT3
+gonome/death1	DSGNDED1
+gonome/death2	DSGNDED2
+gonome/death3	DSGNDED3
+gonome/pain1	DSGNPIN1
+gonome/pain2	DSGNPIN2
+gonome/pain3	DSGNPIN3
+gonome/pain4	DSGNPIN4
+gonome/idle1	DSGNIDL1
+gonome/idle2	DSGNIDL2
+gonome/idle3	DSGNIDL3
+
+$random babuin/sight	{ gonome/idle1  gonome/idle2 gonome/idle3 }
+$random babuin/active	{ gonome/idle1  gonome/idle2 gonome/idle3 }
+$random babuin/pain		{ gonome/pain1  gonome/pain2 gonome/pain3 gonome/pain4 }
+$random babuin/bite		{ gonome/attack1  gonome/attack2 gonome/attack3 }
+$random babuin/death	{ gonome/death1  gonome/death2 gonome/death3 }
+
+//Agrunt Knights
+
+agrunt/alert1	DSAGALR1
+agrunt/alert2	DSAGALR2
+agrunt/alert3	DSAGALR3
+agrunt/alert4	DSAGALR4
+agrunt/alert5	DSAGALR5
+agrunt/attack1	DSAGATT1
+agrunt/attack2	DSAGATT2
+agrunt/attack3	DSAGATT3
+agrunt/die1		DSAGDIE1
+agrunt/die2		DSAGDIE2
+agrunt/die3		DSAGDIE3
+agrunt/die4		DSAGDIE4
+agrunt/die5		DSAGDIE5
+agrunt/fire1	DSAGFIR1
+agrunt/fire2	DSAGFIR2
+agrunt/idle1	DSAGIDL1
+agrunt/idle2	DSAGIDL2
+agrunt/idle3	DSAGIDL3
+agrunt/idle4	DSAGIDL4
+agrunt/idle5	DSAGIDL5
+agrunt/pain1	DSAGPIN1
+agrunt/pain2	DSAGPIN2
+agrunt/pain3	DSAGPIN3
+agrunt/pain4	DSAGPIN4
+agrunt/pain5	DSAGPIN5
+agrunt/hornethit1	DSAGHNH1
+agrunt/hornethit2	DSAGHNH2
+agrunt/hornethit3	DSAGHNH3
+
+$random knight/sight	{ agrunt/alert1 agrunt/alert2 agrunt/alert3 agrunt/alert4 agrunt/alert5 agrunt/attack1 agrunt/attack2 agrunt/attack3 }
+$random knight/active	{ agrunt/idle1 agrunt/idle2 agrunt/idle3 agrunt/idle4 agrunt/idle5 }
+$random knight/pain		{ agrunt/pain1 agrunt/pain2 agrunt/pain3 agrunt/pain4 agrunt/pain5 }
+$random knight/death	{ agrunt/die1 agrunt/die2 agrunt/die3 agrunt/die4 agrunt/die5 }
+$random baron/attack	{ agrunt/fire1 agrunt/fire2 }
+$random baron/shotx		{ agrunt/hornethit1 agrunt/hornethit2 agrunt/hornethit3 }

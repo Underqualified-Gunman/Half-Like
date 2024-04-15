@@ -1,0 +1,5 @@
+[enu default]
+
+
+TAG_GL="M79 Grenade Launcher";
+PICKUP_BLOOPER="Picked up a M79 grenade launcher.";
