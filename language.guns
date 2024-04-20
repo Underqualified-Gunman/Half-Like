@@ -1,0 +1,517 @@
+[enu default]
+SECRETMESSAGE = "\c[Orange]Rebel Supply Stash Identified.";
+GGSAVED = "Savestate made.";
+STARTUP1="        \cq~ \cr* \cq~";
+STARTUP2=" \c[Cyan]Hideous Destructor";
+STARTUP3=" Please read the manual.";
+STARTUP4="       Have fun!";
+STARTUP5="        \cq~ \cr* \cq~";
+TAG_FIST = "Your Hands";
+TAG_CHAINSAW="Dark Energy Converted Chainsaw";
+TAG_PISTOL="Black Mesa Standard Issue 9mm Hangun";
+TAG_REVOLVER="Civilian .357 Revolver";
+TAG_SMG="MP5K Submachinegun";
+TAG_HUNTER="SPAS-12 Shotgun";
+TAG_SLAYER="Double-barreled Shotgun";
+TAG_ZM66="Converted Combine MP7";
+TAG_VULC="AR2 Dark Energy Support Weapon";
+TAG_GL="M79 Grenade Launcher";
+TAG_RL="H.E.C.U Rocket Launcher";
+TAG_THUNDER="Experimental Laser Weapon";
+TAG_LIB="Rebel AK-47";
+TAG_LIB_NOGL="Rebel AK-47 (no GL)";
+TAG_LIB_CLASSIC="Rebel AK-47 (classic)";
+TAG_LIB_CLASSICNOGL="Rebel AK-47 (classic nogl)";
+TAG_BRONTO="Mk.VII Ultralight Cannon";
+TAG_BOSS="AWP Precision Rifle";
+TAG_GREFRAG="M2 Fragmentation Grenade";
+TAG_BFG9000="Experimental Energy Reactor";
+TAG_DERP="H.E.C.U \'D.E.R.P.\' Drone";
+TAG_HERP="H.E.C.U \'H.E.R.P.\' Sentry";
+TAG_PISTOLAMMO="9mm round";
+TAG_REVOLVERAMMO=".357 Round";
+TAG_SHOTGUNSHELLS="12-gauge Buckshot Shells";
+TAG_426AMMO="4.26mm round";
+TAG_7MMAMMO="7.76mm round";
+TAG_7MMAMMOR="Recasted 7.76mm round";
+TAG_7MCASING="7.76mm casing";
+TAG_BRONTOSHELL="35x120mm \'Brontornis\' shell";
+TAG_ROCKETGRENADE="40mm rocket grenade";
+TAG_HEATROCKET="\'H.E.A.T.\' rocket";
+TAG_DUDROCKET="Dud 40mm Rocket Grenade";
+TAG_9MMAG15="9mm 15 Round Magazine";
+TAG_4MMAG="4.26mm 50 Round Magazine";
+TAG_9MMAG30="9mm 30 Round Magazine";
+TAG_7MMAG="7.76mm 30 Round Magazine";
+TAG_7MCLIP="7.76xmm 10 Round Clip";
+TAG_BATTERY="Dark Energy Transportation Pellet";
+TAG_BACKPACK="Black Mesa Equipment Canister";
+TAG_LITEAMP="H.E.C.U Night Vision Goggles";
+TAG_RADSUIT="Black Mesa Clean Suit";
+TAG_AMMOBOX="Unknown Munitions Box";
+TAG_AMMOBOXDISARMED="Disarmed Munitions Box";
+TAG_KEYS="Stolen Facility Keycards";
+TAG_MAPGIVER="Improved Map Intelligence";
+TAG_BLOODPACK="Universal Union Synthetic Bloodpack";
+TAG_DOORBUSTER="H.E.C.U Specialist Breach Charge";
+TAG_IEDKIT="Rebellion Improvised Explosive Device kit";
+TAG_JETPACK="Prototype Zero Point Energy Jetpack";
+TAG_LADDER="H.E.C.U Climbing Equipment";
+TAG_RELOADER="7.76mm portable recasting device";
+TAG_POTION="Nuka Cola Victory";
+TAG_TALISMAN="Dead Radio";
+TAG_STIMPACK="Universal Union Stimpack";
+TAG_ZERKPACK="Experimental Combat Stimulant";
+TAG_MEDIKIT="Minature Universal Union Medical Station";
+TAG_2NDFLESHAPP="Minature Universal Union Medical Station";
+TAG_BANDAGES="Improvised Bandages";
+PICKUP_BFG9000="Experimental Portable Energy Reactor Acquired.";
+PICKUP_BOSSRIFLE="AWP Precsion Rifle Acquired.";
+PICKUP_BRONTO="Mk. VII  Ultralight Cannon Acquired.";
+PICKUP_RL="H.E.C.U Rocket Launcher Acquired.";
+PICKUP_THUNDERBUSTER="Experimental Laser Weapon Acquired.";
+PICKUP_LIB="Rebel AK-47 Acquired.";
+PICKUP_VULC="Universal Union AR2 Acquired.";
+PICKUP_VULC_PERFECT=" Weapon Integrity is 100%.";
+PICKUP_VULC_WORN=" Weapon Integrity is 75%.";
+PICKUP_VULC_DAMAGED=" Weapon Integrity is 50%.";
+PICKUP_VULC_BROKEN=" Weapon Integrity is Critical Cease Useage Immediately.";
+PICKUP_ZM66="Universal Union Modified MP7 Acquired.";
+PICKUP_SEMIZM66="Civillian MP7 Acquired.";
+PICKUP_SLAYER="Double-barreled Shotgun Acquired";
+PICKUP_HUNTER="SPAS-12 Shotgun Acquired.";
+PICKUP_HUNTER_AUTO=" Fully Automatic Fire Selector Detected.";
+PICKUP_HUNTER_EXPORT=" No Semi-Automatic Fire Selector Detected.";
+PICKUP_SMG="MP5K Acquired.";
+PICKUP_REVOLVER=".357 Revolver Acquired.";
+PICKUP_PISTOL="9mm Handgun Acquired.";
+PICKUP_CHAINSAW="Chainsaw Acquired.";
+PICKUP_GRENADE="Fragmentation Grenade Acquired.";
+PICKUP_BLOOPER="M79 Grenade Launcher Acquired.";
+PICKUP_DERP="H.E.C.U Drone Acquired.";
+PICKUP_DERP_BROKEN=" Equipment Damage Detected.";
+PICKUP_HERP="H.E.C.U Sentry Acquired.";
+PICKUP_HERP_BROKEN=" Equipment Damage Detected.";
+PICKUP_PistolAmmo="9mm Round Acquired.";
+PICKUP_RevolverAmmo=".357 Round Acquired.";
+PICKUP_9MBOX="9mm Rounds Acquired.";
+PICKUP_ShotgunShell1="12-Gauge Buckshot Shell Acquired.";
+PICKUP_ShotgunShell2="12-gauge Buckshot Shells Acquired.";
+PICKUP_ShellBox="Box of 12-gauge Buckshot Shells Acquired.";
+PICKUP_426Round1="4.26mm Round Acquired.";
+PICKUP_426Round2="4.26mm Rounds Acquired.";
+PICKUP_7MMAMMO="7.76mm Round Acquired.";
+PICKUP_7MMAMMOR="Reloaded 7.76mm Round Acquired.";
+PICKUP_7MMBRASS="7.76mm Brass Acquired.";
+PICKUP_BRONTOROUND="35mm Shell Acquired.";
+PICKUP_ROCKETGRENADE="40mm Rocket Grenade Acquired.";
+PICKUP_DUDROCKET="Defused 40mm Rocket Grenade Acquired.";
+PICKUP_HEATROCKET="H.E.A.T. rocket Acquired.";
+PICKUP_9MMAG="15 Round 9mm Magazine Acquired.";
+PICKUP_4MMAG="4.26mm Magazine Acquired.";
+PICKUP_9MMAG30="30 Round 9mm Magazine Acquired.";
+PICKUP_7MMAG="30 Round 7.76mm Magazine Acquired.";
+PICKUP_BATTERY="Dark Energy Transportation Pellet Acquired.";
+PICKUP_BACKPACK="Black Mesa Equipment Canister Acquired.";
+PICKUP_LITEAMP="H.E.C.U Night Vision Goggles Acquired.";
+PICKUP_RADSUIT="Black Mesa Clean Suit Acquired.";
+PICKUP_BLOODPACK="Picked up a UAC Synthetic Bloodpack.";
+PICKUP_DOORBUSTER="Picked up a UAC Specialist Breach Charge.";
+PICKUP_IED="Picked up an Improvised Explosive Device kit.";
+PICKUP_JETPACK="You got the UAC Specialist Jetpack!";
+PICKUP_LADDER="Picked up a UAC Portable Ladder.";
+PICKUP_RELOADER="You got the G&C 7.76x54mm portable recasting device!";
+PICKUP_POTION="Picked up a Experimental Blue Vial...";
+PICKUP_BLURSPHERE="You got a Blursphere, It is strangely catlike.";
+PICKUP_TALISMAN="Picked up a Dead Radio.";
+PICKUP_STIMPACK="Snagged a Stimpack.";
+PICKUP_ZERKPACK="Took a Trauma pack.";
+PICKUP_MEDIKIT="Made off with a Medikit.";
+PICKUP_GARRISONARMOUR="Picked up a bullet proof guard vest.";
+PICKUP_BATTLEARMOUR="Picked up a HECU PCV.";
+// Misc non-pickup and non-tag stuff down here. - [Ted]
+ARMOR_PUTON="You put on your %s. ";
+ARMOR_BATTLE="Powere Combat Vest";
+ARMOR_GARRISON="Guard Vest";
+DURABILITY_95="You don't like the condition of this.";
+DURABILITY_75="This armor does not fill you with confidence...";
+DURABILITY_6="At least it protects your guts.";
+DURABILITY_3="You cover your shameful skin with your filthy rags.";
+DURABILITY_1="Just don't get hit.";
+ARMOUR_REMOVE="Removing your ";
+TALISMAN_SUMMON1="Roger That, Squad Coming To Your Position!";
+TALISMAN_SUMMON2="We Will Not Fail You Sir!";
+TALISMAN_SUMMON3="Forget about Freeman! We are cutting our losses and pulling out. Anyone left down there now is on his own. Repeat, if you weren't already, you are now...";
+TALISMAN_SUMMON4="All units, retreat to the rally point. I say, retreat to the rally point. Orders have been changed. We are pulling out. The safety of any units left behind cannot be guaranteed.";
+
+BACKPACK_TOOFULL="Equipment Canister At Capacity.";
+
+MEDIKIT_USEUNWRAPPED="You pull out the medikit you've already unwrapped.";
+MEDIKIT_UNKNOWN="** UNKNOWN **";
+MEDIKIT_NOSUTURES="You are out of Auto-Sutures.";
+MEDIKIT_NOBURNS="You have no burns to treat.";
+MEDIKIT_NOWOUNDS="You have no wounds to treat.";
+MEDIKIT_FIRETOHEAL="\cg+++ \cjMEDIKIT \cg+++\c-\n\n\nPress and hold Fire\nto patch yourself up.";
+MEDIKIT_OTHERWOUNDS="They have no injuries to treat.";
+MEDIKIT_NOTHINGTOBEDONE="Nothing to be done here.\n\nHeal thyself? (press fire)";
+MEDIKIT_USEDSYRINGE="Run away!\n\n%s is trying to stab you\n\nwith a used syringe!!!";
+MEDIKIT_ATTACKUSED="Why are you attacking your teammate\n\nwith used medical equipment!?";
+MEDIKIT_OTHERUSEONYOU="%s is trying to use a medikit on you.\nStay still to let them or tell them to leave...";
+MEDIKIT_STAYSTILL="You'll need them to stay still...";
+MEDIKIT_TAKEOFF1="Get them to take off their ";
+MEDIKIT_TAKEOFF2=" first!\n\n(\cdhd_strip\c- in the console)";
+MEDIKIT_OTHERNOWOUNDS="They have no wounds to treat.";
+MEDIKIT_OTHERNOBURNS="They have no burns to treat.";
+MEDIKIT_TARGETNOPED="Target disconnected!";
+MEDIKIT_WOUNDSEALED="Wound successfully sealed.";
+MEDIKIT_AUTODIAGNOSTIC="\cdMedikit Auto-Diagnostic Tool engaged.\c-\n\n\ccScanning, please wait...";
+MEDIKIT_AUTODIAGNOSTICFAIL="\caMedikit Auto-Diagnostic Tool failed.";
+MEDIKIT_AUTODIAGNOSTICFOR="Medikit Auto-Diagnostic for \cy\n";
+MEDIKIT_WOUNDS="\n\n\ccWounds:\cg\cu";
+MEDIKIT_BURNS="\n\ccBurns: \cq";
+MEDIKIT_TISSUEDAMAGE="\n\ccTissue Damage: \cq";
+MEDIKIT_BLOODLOSS="\n\ccBlood loss: \ca";
+MEDIKIT_TRANSFUSIONUNITS=" \cctransfusion units";
+MEDIKIT_NONE=" none";
+
+BANDAGES_TEXT1="\cu--- \ccBANDAGING \cu---\c-\n\n\nPress and hold Fire\n\nwhile standing still\n\nto try to not die.";
+BANDAGES_TEXT2="\cu--- \ccBANDAGING \cu---\c-\n\n\nPress and hold Fire to bandage\n\nyourself when you are bleeding.\n\n\n\nPress and hold Altfire\n\nto bandage someone else.";
+BANDAGES_NOWOUNDS="There is no wound to treat.";
+BANDAGES_STAYSTILL="You must stay still\n\nto bandage yourself!";
+BANDAGES_NOTBLEEDING="You are not bleeding.";
+BANDAGES_STABLE="You seem to be stable.";
+BANDAGES_NOTHINGDONE="Nothing to be done here.\n\nHeal thyself?";
+BANDAGES_SOMEONEBANDAGING="%s is trying to bandage you.\n\nStay still to let them or\ntell them to leave...";
+BANDAGES_STAYSTILLOTHER="You'll need them to stay still...";
+BANDAGES_OTHERNOTBLEEDING="They're not bleeding.";
+BANDAGES_WORKINGON="Working on ";
+
+BLOODBAG_HOLDFIRE="\cr::: \cgSECOND BLOOD \cr:::\c-\n\n\nPress and hold Fire\nto attach.";
+BLOODBAG_NOVALIDPATIENT="No valid patient in range.";
+BLOODBAG_PATIENTHAS="Patient has";
+BLOODBAG_YOUHAVE="You have";
+BLOODBAG_INJECTORIN=" a blood injector already!";
+
+POTION_TEXT1="\ct\(\(\( \cnBLUE POTION \ct\)\)\)\c-\n\n\nNot made\nby sane humans.\n\nDrink if you're brave.";
+BLUES_POWER="You feel power radiating out from you.";
+
+PICKUP_INFERIORMAG="Discarding an inferior mag to make room.";
+PICKUP_MAGFIREMODE="Firemode has been held but the target mag is not better. Swap aborted.";
+PICKUP_EXCEEDED=" exceeded.";
+PICKUP_POCKETSFULL="You have no room in your pockets!";
+
+HERP_NOBATTERY="Operational fault. (ERR-4fd92-00B) Power low.";
+HERP_NOMAG="Operational fault. (ERR-42392-41A) Cartridge empty. Shutting down...";
+HERP_BADMAG="Operational fault. (ERR-74x29-58A) Unsupported ammunition type.";
+HERP_NOINTERFACE="Operational fault.  (ERR-8w8i7-8VX) No interface detected.";
+HERP_SYSTEMRESTART="Illegal operation. (ERR-u0H85-6NN) System will restart.";
+HERP_TAMPEREDSYSTEM="Illegal operation. Identify Friend/Foe system has been tampered with. Please contact your commanding officer immediately. (ERR-0023j-000) System will halt.";
+HERP_FORMATC="Formatting C:\\ (DBG-444j2-0A0)";
+HERP_DEVMODE="Testing mode initialized.  (DBG-86nm8-BN5) Cache cleared.";
+HERP_OBJECTNOTMAPPED="*** Fatal Error *** Address not mapped to object (signal 11) Address: 0x8";
+HERP_SEGMENTATIONFAULT="*** Fatal Error *** Segmentation fault (signal 11) Address: (nil)";
+HERP_ENEMY="IFF system alert: enemy pattern recognized.";
+HERP_ESTABLISHING="Establishing connection...";
+HERP_CONNECTED="Connected!";
+HERP_DISCONNECTED="Disconnected.";
+HERP_DAMAGEDBEYONDFUNCTION="Damaged beyond function. Remove power source before attempting repairs.";
+HERP_NOPOWER="No power. Please attach power source before deploying.";
+HERP_REPAIRPACK="You repair one of the broken sentries in your backpack.";
+HERP_REPAIRPACK_FAIL="You destroy one of the broken sentries in your backpack in your repair efforts.";
+HERP_REPAIRED="You bring your H.E.R.P. back into working condition.";
+HERP_CANNIBALIZED="Another H.E.R.P. was cannibalized for parts.";
+HERP_REPAIRBROKEN="You repair one of your broken H.E.R.P.s.";
+HERP_REPAIRBROKEN_FAIL="You destroy one of your broken H.E.R.P.s in your repair efforts.";
+HERP_FIELDREPAIRS="You manage some improvised field repairs to your H.E.R.P. robot.";
+HERP_NOCONTROLLER="No controller connection available. Bring up the interface with an idle H.E.R.P. connected first.";
+HERP_NEXTTAG="\cd[HERP] \cjNext HERP tag set to \cy%i";
+HERP_EMPTY="\cd[HERP] \crERROR:\cj HERP at [\cj%i\cu,\cj%i\cu] out of ammo or cells, \cxNOT\cj activated.";
+HERP_NOANGLECHANGE="\cd[HERP] \crERROR:\cj No angle change indicated.";
+HERP_NOWFACING=""; //"\cd[HERP] \cj HERP at [\cj%i\cu,\cj%i\cu]\cj base angle now facing %s";
+HERP_FACING= "";//"\cd[HERP] \cu [\cj%i\cu,\cj%i\cu]\cj facing %s \cy%i\cj %s";
+HERP_INACTIVE="\cyinactive";
+HERP_ACTIVE="\cxACTIVE";
+HERP_BADCOMMAND1="\cd[HERP] \cj%sCommand format:\cu herp <option> <tag number> <direction>\n\cjOptions\n 1 = ON\n 2 = OFF\n 3 = DIRECTION (counterclockwise in degrees)\n 123 = QUERY\n -n = set tag number\n\cj  tag number on next deployment: \cy%i";
+HERP_BADCOMMAND2="No HERPs currently deployed.\n";
+HERP_TAG1="\cd[HERP] \cj%i HERP%s %s%s\cj.";
+HERP_TAG2="with tag \ca%i\cj ";
+HERP_VERB1="Hacked";
+HERP_VERB2="\cxActivated";
+HERP_VERB3="\cyDeactivated";
+HERP_VERB4="\cuRedirected";
+HERP_VERB5="\cbScan toggled";
+HERP_NODEPLOYED="No H.E.R.P.s deployed. Abort.";
+HERP_NEXTLIST="Switching to next H.E.R.P. in the list.";
+
+DERP_ALERT1="Derpy derp!";
+DERP_ALERT2="\cd[DERP";
+DERP_ALERT3="(\cj";
+DERP_ALERT4="\cd)";
+DERP_ALERT5="]\cj  ";
+DERP_AIM="\cjEngaging hostile.";
+DERP_KILL="\cf  Hostile eliminated.";
+DERP_STANDBY="\cg  Operational fault.\cj Standby for repairs.";
+DERP_NOAMMO="\cjOut of ammo. Await retrieval.";
+DERP_BROKEN="\cm<broken>";
+DERP_WAIT="\ccWAIT";
+DERP_LINE="\ceLINE";
+DERP_TURRET="\caTURRET";
+DERP_PATROL="\cgPATROL";
+DERP_BOTID="\cubotid \cy";
+DERP_NOMAG="\cm<no mag>";
+DERP_MAG="Mag:  ";
+DERP_REPAIRPACK="You repair one of the broken D.E.R.P.s in your backpack.";
+DERP_REPAIRPACK_FAIL="You destroy one of the broken D.E.R.P.s in your backpack in your repair efforts.";
+DERP_REPAIR="You repair one of your broken D.E.R.P.s.";
+DERP_REPAIR_FAIL="You destroy one of your broken D.E.R.P.s in your repair efforts.";
+DERP_FIELDREPAIR="You manage some improvised field repairs to your D.E.R.P. robot.";
+DERP_REMOVEMAG="Remove magazine before attempting repairs.";
+DERP_REPAIRED="You bring your D.E.R.P. back into working condition.";
+DERP_CANNIBALIZED="Another D.E.R.P. was cannibalized for parts.";
+DERP_NOINTERFACE="No controller connection active. Bring up the interface first.";
+DERP_TAGSET="\cd[DERP]  \cutag set to  \cy%i";
+DERP_ITSBROKEN="\cd[DERP]  \cuIt's broken.";
+DERP_555HELP="\cd[DERP]  \cuUse this command to attach the D.E.R.P. to a wall or switch.";
+DERP_CANTDEPLOY="\cd[DERP]  \cuCan't deploy here.";
+DERP_MODEWAIT="cWAIT";
+DERP_MODELINE="cLINE";
+DERP_MODETURRET="aTURRET";
+DERP_MODEPATROL="gPATROL";
+DERP_MODE="\cd[DERP]  \c%s  \cjmode";
+DERP_GOALSETPLAYER="\cd[DERP]  \cugoal set to  \cyYOUR POSITION";
+DERP_GOALSETTO="\cd[DERP]  \cugoal set to  \cx[%i,%i]";
+DERP_REPORTIN1="\cd[DERP] \cjtag #\cx%i \cjreporting in at [\cx%i\cj,\cx%i\cj] with %s";
+DERP_REPORTIN2="\cy%i\cj bullets left!";
+DERP_REPORTIN3="\crno ammo left!\cj Help!";
+DERP_BADCOMMAND="\cd[NO DERPS AVAILABLE]\cj";
+DERP_SWITCHING="Switching to next D.E.R.P. in the list.";
+DERP_NODERPS="No D.E.R.P.s deployed. Abort.";
+DERP_NOTFOUND="D.E.R.P. not found. Resetting list.";
+DERP_LASTPOS1="CONNECTION FAILURE, REBOOT REQUIRED!: D.E.R.P. last position given at (";
+DERP_LASTPOS2=",";
+DERP_LASTPOS3=")";
+DERP_IDLEMODE="Idle mode.";
+DERP_WATCHMODE="Watch mode.";
+DERP_WATCH360MODE="Turret mode.";
+DERP_PATROLMODE="Patrol mode.";
+DERP_FETCHDEVICES="Fetching nearby devices...";
+DERP_CONNECTIONFAILURE1="CONNECTION FAILURE, REBOOT REQUIRED!: D.E.R.P. last position given at (";
+DERP_CONNECTIONFAILURE2=",";
+DERP_CONNECTIONFAILURE3=")";
+DERP_CONNECTED1="D.E.R.P. connected at (";
+DERP_CONNECTED2=",";
+DERP_CONNECTED3=").";
+DERP_CONNECTIONATTEMPTMADE1="D.E.R.P. connection attempt made by user ";
+DERP_CONNECTIONATTEMPTMADE2="at (";
+DERP_CONNECTIONATTEMPTMADE3=",";
+DERP_CONNECTIONATTEMPTMADE4=")";
+DERP_REMOTELOGINFAILED="D.E.R.P. remote login attempt failed.";
+
+MAGMANAGER_UITEXT="Mag Manager\n\nNo mags selected";
+MAGMANAGER_CONTROLS1="\cf///\c%s\cf\\\\\\\n\cqFire\cu/\cqAltfire\cu  select mag\n\cqFiremode\cu+\cqF\cu/\cqAF\cu  select type\n\cqReload\cu/\cqUnload\cu  load/unload selected\n\cqFM\cu+\cqR\cu/\cqU\cu  move to/from backpack\n\cqDrop\cu  drop current  \cqFM\cu+\cqDrop\cu  ...lowest\n\cqAlt.Reload\cu bring up lowest\n\cqDrop one\cu drop loose rounds";
+MAGMANAGER_CONTROLS2="y";
+MAGMANAGER_CONTROLS3="uNo mags selected.";
+
+PICKUPMANAGER_UITEXT="\cy\\\\\\\cfPickup Manager\cy///\n\n\n\n\n\n\cj%s";
+PICKUPMANAGER_ONDROP="\n\caOn drop: ";
+PICKUPMANAGER_NOITEMS="No item selected.";
+
+LITEAMP_GOGGLESAT="Goggles at ";
+LITEAMP_CHARGE="% charge and ";
+LITEAMP_INTEGRITY="% integrity.";
+LITEAMP_NOPOWER="No power for lite-amp. Need at least 1 battery on you.";
+
+LADDER_HANG="You Deploy a ladder.%s";
+LADDER_HANG_HELPTEXT=" Use the ladder to climb.";
+LADDER_CANTHANG=" Use the ladder to climb.";
+LADDER_CLIMB="climbing the ladder.%s";
+LADDER_CLIMB_HELPTEXT=" Use again or jump to disengage; crouch and jump to pull down the ladder with you.";
+LADDER_DISENGAGE="Ladder disengaged.";
+LADDER_UP="Ladder pulled up.";
+LADDER_DOWN="Ladder pulled down.";
+
+STIMPACK_NONEED="They don't need it.";
+STIMPACK_NOTHINGTOBEDONE="Nothing to be done here.\n\nStimulate thyself? (press fire)";
+STIMPACK_TAKEOFFOTHER="You'll need them to take off their ";
+STIMPACK_ELIPSES="...";
+STIMPACK_OVERDOSEPLAYER="Run away!!!\n\n%s is trying to overdose you!";
+STIMPACK_FIDGETY="They seem a bit fidgety...";
+STIMPACK_STOPSQUIRMING="Stop squirming!\n\n%s only wants to\n\ngive you some drugs..."
+STIMPACK_STAYSTILLOTHER="You'll need them to stay still...";
+STIMPACK_SEEMFIDGETY="They seem a bit fidgety already...";
+
+IED_ONELIVEORDUD="You need at least one live or dud rocket grenade.";
+IED_DEPLOYED="\cd[IED] \cjDeployed with tag ID \cy%i\cj - \cgARMED AND SEEKING!\cj\n\cjUse \cdied 1 \cy%i\cj in the console to \cgde\cjactivate seeking or \cdied 999 \cy%i\cj to detonate immediately.";
+IED_DEPLOYED_HELPTEXT="\cd[IED] \cjDeployed with tag ID \cy%i\cj.\n\cjUse \cdied 1 \cy%i\cj in the console to activate seeking or \cdied 999 \cy%i\cj to detonate immediately.";
+IED_SETTAG="\cd[IED] \cjNext IED tag set to \cy%i";
+IED_IED="\cd[IED] \cu [\cj%i\cu,\cj%i\cu] \cy%i %s";
+IED_ACTIVE="\cgACTIVE";
+IED_PASSIVE="\cupassive";
+IED_VERB1="hacked";
+IED_VERB2="\crdetonated";
+IED_VERB3="\cxactivated";
+IED_VERB4="\cydeactivated";
+IED_IED2="\cd[IED] \cj%i IED%s %s%s\cj.";
+IED_WITHTAG="with tag \ca%i\cj ";
+IED_BADCOMMAND1="\cd[IED] \cj%sCommand format:\n\cu ied <option> <tag number> \n\cjOptions:\n 1 = ON\n 2 = OFF\n 999 = DETONATE\n 123 = QUERY\n -n = set tag number\n\cj  tag number on next deployment: \cy%i";
+IED_BADCOMMAND2="No IEDs currently deployed.\n";
+IED_S="s";
+
+// Reusable Ammo Boxes
+// Tags
+TAG_9MM_BOX = "9mm ammo box";
+TAG_SHELL_BOX = "12-gauge Buckshot shell box";
+TAG_7MM_BOX = "7.76mm ammo box";
+TAG_355_BOX = ".357 ammo box";
+TAG_RPG_BOX = "40mm rocket grenade box";
+
+// Pickup Messages
+PICKUP_9MM_BOX = "Picked up a box of 9x19mm Parumpudicum rounds.";
+PICKUP_SHELL_BOX = "Picked up a box of 12-Gauge Buckshot.";
+PICKUP_7MM_BOX = "Picked up a box of G&C 7.76x54mm rounds.";
+PICKUP_355_BOX = "Picked up a box of .355 rounds.";
+PICKUP_RPG_BOX = "Picked up a box of 40x54mm rocket grenades.";
+
+// Tags
+TAG_4G_SLUG_BOX = "4-gauge Saboted Shotgun slug box";
+TAG_5MM_BOX = "5x12mm Bumblebee Rimfire ammo box";
+TAG_6MM_BOX = "6mm flechette ammo box";
+TAG_10MM_BOX = "10x25mm ammo box";
+TAG_45ACP_BOX = ".45 ACP ammo box";
+TAG_45LC_BOX = ".45 LC ammo box";
+TAG_50AE_BOX = ".50 AE ammo box";
+TAG_50AM_BOX = ".50 AM ammo box";
+TAG_50OMG_BOX = ".50 OMG ammo box";
+TAG_500_HEAVY_BOX = ".500 Hand loads box";
+TAG_500_LIGHT_BOX = ".500 Factory loads box";
+TAG_3006_BOX = ".30-06 ammo box";
+TAG_069_BOX = ".069  Buckshot box";
+TAG_420_BOX = ".420  ammo box";
+TAG_FLARE_BOX = "12-Gauge recreational Flare Shell box";
+TAG_LESSLETHAL_BOX = "14-Gauge Beanbag Shell box";
+TAG_SLUG_BOX = "12-Gauge Shotgun slug box";
+TAG_EXPLOSIVE_SHELL_BOX = "12-Gauge HE-Slug box";
+
+// Pickup Messages
+PICKUP_4G_SLUG_BOX = "Picked up a box of 4-gauge Saboted Shotgun slugs.";
+PICKUP_5MM_BOX = "Picked up a box of 5x12mm Bumblebee Rimfire rounds.";
+PICKUP_SLUG_BOX = "Picked up a box of 12-Gauge Shotgun slugs.";
+PICKUP_EXPLOSIVE_SHELL_BOX = "Picked up a box of 12-Gauge HE-Slugs.";
+PICKUP_6MM_BOX = "Picked up a box of 6mm flechette rounds.";
+PICKUP_10MM_BOX = "Picked up a box of 10x25mm rounds.";
+PICKUP_45ACP_BOX = "Picked up a box of .45 ACP rounds.";
+PICKUP_45LC_BOX = "Picked up a box of .45 LC rounds.";
+PICKUP_50AE_BOX = "Picked up a box of .50 Action Express rounds.";
+PICKUP_50AM_BOX= "Picked up a box of .50 AM rounds.";
+PICKUP_50OMG_BOX = "Picked up a box of .50 OMG rounds.";
+PICKUP_500_HEAVY_BOX = "Picked up a box of .500 Hand loads.";
+PICKUP_500_LIGHT_BOX = "Picked up a box of .500 Factory loads.";
+PICKUP_3006_BOX = "Picked up a box of .32-18 \'Gdansk\' rounds.";
+PICKUP_069_BOX = "Picked up a box of .69 shells.";
+PICKUP_420_BOX = "Picked up a box of .420 rounds.";
+PICKUP_FLARE_BOX = "Picked up a box of 12-Gauge recreational Flare Shells.";
+PICKUP_LESSLETHAL_BOX = "Picked up a box of 14-Gauge Beanbag Shells.";
+
+// Peppergrinder
+
+// --------------------
+// Tags
+// --------------------
+
+PEPPER_TAG_HLAR="H.E.C.U. MP-5SD";
+PEPPER_TAG_BOXCANNON = "9mm Mauser Pistol";
+PEPPER_TAG_9MCLIP = "10 round 9mm clip";
+PEPPER_TAG_DMR = "G-36 Designated Marksman Rifle";
+PEPPER_TAG_GREELY = "Tac-14 shotgun";
+PEPPER_TAG_NDM = "9.13x25mm Nail Driver Maximum round";
+PEPPER_TAG_NDM_MAG = "9.13x25mm NDM magazine";
+PEPPER_TAG_HELZING = "Helzing .357 Magnum Handgun";
+PEPPER_TAG_355MAG = ".357 Helzing magazine";
+PEPPER_TAG_ILIB = "ZM-7 battle rifle prototype";
+PEPPER_TAG_SAWEDSLAYER = "Sawed-off Double Barrel shotgun";
+PEPPER_TAG_SCOPEDREVOLVER = "Scoped Revolver";
+PEPPER_TAG_SCOPEDSLAYER = "Scoped double-barreled shotgun";
+
+PEPPER_TAG_TROGMAG = "G&C A-426c 30-round magazine";
+PEPPER_TAG_YEYUZE = "China Lake Pump-Action Grenade Launcher";
+PEPPER_TAG_ZM94 = "M-94 .50 Anti-Material Rifle";
+PEPPER_TAG_ZM94_MAG = ".50 AM M-94 magazine";
+PEPPER_TAG_ZORCHER = "'Panopticon' Teleportation Device";
+
+
+// --------------------
+// Pickup Messages
+// --------------------
+
+PEPPER_PICKUP_HLAR = "You got the H.E.C.U. MP5-SD!";
+PEPPER_PICKUP_AUTO5 = "You got the Browning Auto-5 Shotgun!";
+PEPPER_PICKUP_BASTARD = "You found the Wejherowo \'Bastardized\' A-426c Carbine! What a crude thing...";
+PEPPER_PICKUP_9MCLIP = "Picked up a 9x19mm Parabellum stripper clip.";
+PEPPER_PICKUP_DMR = "You got the H&K PG-667 Designated Marksman Rifle!";
+PEPPER_PICKUP_GREELY = "You got the TAC-14 shotgun!";
+PEPPER_PICKUP_NDM = "Picked up a 9.13x25mm Nail Driver Maximum round.";
+PEPPER_PICKUP_NDM_MAG = "Picked up a 9.13x25mm NDM pistol magazine.";
+PEPPER_PICKUP_HELZING = "You got the Helzing Handgun!";
+PEPPER_PICKUP_355MAG = "Picked up a .355 Helzing magazine.";
+PEPPER_PICKUP_ILIB = "You got the ZM-7 battle rifle! Seems like this one's a prototype...";
+PEPPER_PICKUP_SAWEDSHOTGUN = "You got a Sawed-off Double Barrel shotgun!";
+PEPPER_PICKUP_SCOPEDREVOLVER = "You got the Deinonychus Revolver! This one appears to have a scope, too.";
+PEPPER_PICKUP_SCOPEDSLAYER = "You got a Scoped double-barreled shotgun!";
+PEPPER_PICKUP_TROG = "Picked up a Gherardo & Constante A-426c Assault Carbine! It's got a nice heft to it.";
+PEPPER_PICKUP_TROGMAG = "Picked up a G&C A-426c 30-round magazine.";
+
+PEPPER_PICKUP_VERA_NORMAL = "Picked up the M764 Squad Automatic Weapon!";
+PEPPER_PICKUP_YEYUZE = "You got the China Lake Pump-Action Grenade Launcher!";
+
+PEPPER_PICKUP_ZM94_NEW = "You got the Barret ZM-94 .50 Anti-Material Rifle!";
+PEPPER_PICKUP_ZM94_PRISTINE = " It\'s in pristine shape.";
+PEPPER_PICKUP_ZM94_WORN = ". It\'s getting a bit worn.";
+PEPPER_PICKUP_ZM94_BEATEN = ". It\'s been through a lot.";
+PEPPER_PICKUP_ZM94_BROKEN = ". It might be good for a shot or two.";
+PEPPER_PICKUP_ZM94_MAG = "Picked up a 5-round .50 AM Barrett magazine.";
+
+PEPPER_PICKUP_ZORCHER = "You got the 'Panopticon' Teleportation Device!";
+
+// --------------------
+// Obituaries
+// --------------------
+
+PEPPER_OBITUARY_HLAR = "%o was soaked by %k\'s pea stream.";
+
+PEPPER_OBITUARY_AUROCHS = "%o got capped by %k\'s six-pea shooter.";
+
+PEPPER_OBITUARY_BASTARD = "%o was assaulted by %k.";
+
+PEPPER_OBITUARY_BOXCANNON = "%o got broomsticked by %k\'s Mauser.";
+
+PEPPER_OBITUARY_FULGUR = "%o was hammered by %k\'s particle beam.";
+
+PEPPER_OBITUARY_GREELY = "%o was carnevil\'d by %k";
+
+PEPPER_OBITUARY_GUILLOTINE = "%o got capped by %k\'s pea shooter.";
+
+PEPPER_OBITUARY_HELZING = "%o got capped by %k\'s Helzing.";
+
+PEPPER_OBITUARY_LISA = "%o got blasted by %k\'s PPDR-MK1 \'Kokken\' Pulse-Plasma Projector Rifle.";
+
+PEPPER_OBITUARY_LOTUS = "%o got flicked by %k.";
+
+PEPPER_OBITUARY_MAULER = "%o just got glassed and no one leaves here till we find out %k did it!";
+PEPPER_OBITUARY_MAULER_ID = "%o was smacked by %k\'s big green gob.";
+
+PEPPER_OBITUARY_ODDBALL = "%o was assaulted by %k.";
+
+PEPPER_OBITUARY_FAKE_P90 = "%o was broken by %k.";
+PEPPER_OBITUARY_REAL_P90 = "%o was sacrificed to %k.";
+
+PEPPER_OBITUARY_PLASMAPISTOL = "%o got burned by %k\'s hot, melting plasma.";
+
+PEPPER_OBITUARY_RUBYMASER = "%o was boiled by %k\'s maser beam.";
+
+PEPPER_OBITUARY_VERA = "%o met the budda-budda-budda on the street, and %k killed %h.";
+
+PEPPER_OBITUARY_WISEAU = "%o got hunted by %k\'s Plasma Magnum.";
+
+PEPPER_OBITUARY_ZM94 = "%o was forcefully penetrated by %k.";
+
+PEPPER_OBITUARY_ZORCHER = "%o got killed by %k with a weapon that does no damage whatsoever.";
