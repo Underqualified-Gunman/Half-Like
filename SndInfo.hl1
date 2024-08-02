@@ -606,3 +606,9 @@ $random vile/stop		{ nihilanth/zap1 nihilanth/zap2 nihilanth/zap3 }
 
 herp/beep			DSTUPING
 herp/beepready		DSTULERT
+
+weapons/csawopen    dsriflod
+weapons/csawload    dsgopen
+weapons/csawclose   dsfclk
+weapons/csawtouch   dsrifclk
+weapons/csawbleh    dspocket
