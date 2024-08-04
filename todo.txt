@@ -44,3 +44,53 @@ perhaps  have a ping abilty with it? or a spot light mode?
 make it so cameras can spawn on floor decor or monster spawn points not replacing the original
 look into bntz hackpad
 have cameras be hackable 
+
+hackpad
+	spawns on automaps
+	replaces automaps firsttime picking one up grants full automap to the finder
+	grants full access to cameras deployed on the map already, can be used to hack the static cameras
+
+new derp variant the kludge drone from brava
+	can hack enemy derps/herps/kludge drones
+	can jump
+	can still be used to activate linedefs
+	no on board weapon
+	uses cells for its ammo
+	
+
+
+
+
+
+
+siege ping
+adjust sound effect for aspot siege to be louder
+
+
+version maybe twitch
+needs stuff
+
+gun ideas
+HL spas-12
+
+
+map thoughts
+
+train level
+
+EOTL like story?
+
+
+derp
+A1 -front view
+A5 - back
+A7 A3 - side view
+
+A6 A4 - backangled
+
+
+A8 A2 - front from 45
+
+
+I own a Brontornis Ultralight Cannon for home defense, since that's what the archangels intended. Four jackboots break into the sector. "It's coward killing time!" As I grab my Garrison Armor and Brontornis Ultralight Cannon. Blow a bowling ball sized hole through the first beast, he's dead on the spot. Draw my ZM66 Assault Rifle on the second man, miss him entirely because it jams, so I throw the mag at the neighbors Babuin. I have to resort to the Vulcan Gatling Gun mounted at the top of the stairs loaded with 4mm, "Everyone! Look at meeeeeee!" the 4mm shreds two men in the line of fire, the sound and extra shrapnel set off nearby ammo cans. Jab myself with Berserk and charge the last terrified dimwit. He Bleeds out waiting on the Healer Imps to arrive because Berserk instantly turns all beasties to gibs. Just as the Archangels intended
+-thomased22
