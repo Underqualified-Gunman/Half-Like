@@ -7,19 +7,12 @@ weapons/smgchamber		DSHLCLI2
 weapons/smgmagclick		DSHLCLI1
 weapons/smgmagmove		DSHLCLR1
 
-//Just incase you're running this outside of HDest
 
-weapons/chngun	DSRIFLE
+//Vera m249 sfx
 
-//Just incase you're running this outside of HDest
-
-weapons/sshotf	DSHDDBA1
-
-//HAssault for Vulcanette
-
-weapons/vulcanette	DSOP4SA1
-weapons/vulcopen1	DSOP4SAO
-weapons/vulcshunt	DSOP4SAC
+weapons/vera	VEOP4SA1
+weapons/veraopen1	VEOP4SAO
+weapons/verashunt	VEOP4SAC
 
 
 //Medikit Sounds

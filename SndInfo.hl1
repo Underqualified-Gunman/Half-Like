@@ -1,3 +1,20 @@
+// restoring dssgcock to make less work
+operatorm/sight    dssgcock
+operatorf/sight   dssgcock
+operatorn/sight   dssgcock
+operatorb/sight   dssgcock
+jetpack/wear    dssgcock
+herp/repair       dssgcock
+weapons/plasswitch dssgcock
+
+
+
+
+
+
+
+
+
 //TH G3 for Liberator
 
 //weapons/thhks1	DSHLTHK1
@@ -66,6 +83,8 @@ weapons/deinoclick	DSHL35CL
 weapons/hunter        	SPASFIRE   $limit weapons/hunter 0
 weapons/huntrackup		DSSCOCK1
 weapons/huntrackdown	DSSCOCK2
+weapons/huntrackbak		DSSCOCK1
+weapons/huntrackfwd		DSSCOCK2
 
 //The Other SPAS12 for Slayer
 
@@ -97,6 +116,19 @@ weapons/bigrifle2		DSOP4BO1
 
 //$random weapons/riflejam { jam/cbarhit1 jam/cbarhit2 }
 
+/*
+weapons/trog     weapons/rifle   $limit weapons/trog 0 //shootbang
+
+weapons/trogclick    weapons/rifleclick		//used for manually chambering new round (including during reload)
+weapons/trogclick2     weapons/rifleclick2		//used during reload
+weapons/trogunload  	   weapons/rifleload					//magout
+weapons/trogload        weapons/rifleload		//magin
+weapons/troggrenopen    weapons/grenopen	//used for opening up the gl
+weapons/troggrenload    weapons/grenreload	//loading the grenade in
+weapons/trogchamber     weapons/rifchamber 	//chambering a new round??? i didn't check how this was different from click
+*/
+
+
 //Explosion Sounds
 
 weapons/explode1 DSHLEXP1
@@ -125,15 +157,15 @@ menu/clear				DSCLMENU
 
 //Zappy Sounds
 
-//debris/zap1 DSHLZAP1
-//debris/zap2 DSHLZAP2
-//debris/zap3 DSHLZAP3
-//debris/zap4 DSHLZAP4
-//debris/zap5 DSHLZAP5
-//debris/zap6 DSHLZAP6
-//debris/zap7 DSHLZAP7
-//debris/zap8 DSHLZAP8
-//$random misc/arczap	{ debris/zap1 debris/zap2 debris/zap3 debris/zap4 debris/zap5 debris/zap6 debris/zap7 debris/zap8 }
+debris/zap1 DSHLZAP1
+debris/zap2 DSHLZAP2
+debris/zap3 DSHLZAP3
+debris/zap4 DSHLZAP4
+debris/zap5 DSHLZAP5
+debris/zap6 DSHLZAP6
+debris/zap7 DSHLZAP7
+debris/zap8 DSHLZAP8
+$random misc/arczap	{ debris/zap1 debris/zap2 debris/zap3 debris/zap4 debris/zap5 debris/zap6 debris/zap7 debris/zap8 }
 
 //Grenade Rolls
 
