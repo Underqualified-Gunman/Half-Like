@@ -116,17 +116,17 @@ weapons/bigrifle2		DSOP4BO1
 
 //$random weapons/riflejam { jam/cbarhit1 jam/cbarhit2 }
 
-/*
-weapons/trog     weapons/rifle   $limit weapons/trog 0 //shootbang
 
-weapons/trogclick    weapons/rifleclick		//used for manually chambering new round (including during reload)
-weapons/trogclick2     weapons/rifleclick2		//used during reload
-weapons/trogunload  	   weapons/rifleload					//magout
-weapons/trogload        weapons/rifleload		//magin
-weapons/troggrenopen    weapons/grenopen	//used for opening up the gl
-weapons/troggrenload    weapons/grenreload	//loading the grenade in
-weapons/trogchamber     weapons/rifchamber 	//chambering a new round??? i didn't check how this was different from click
-*/
+weapons/trog     dstrog   $limit weapons/trog 0 //shootbang
+
+//weapons/trogclick    weapons/rifleclick		//used for manually chambering new round (including during reload)
+//weapons/trogclick2     weapons/rifleclick2		//used during reload
+//weapons/trogunload  	   weapons/rifleload					//magout
+//weapons/trogload        weapons/rifleload		//magin
+//weapons/troggrenopen    weapons/grenopen	//used for opening up the gl
+//weapons/troggrenload    weapons/grenreload	//loading the grenade in
+//weapons/trogchamber     weapons/rifchamber 	//chambering a new round??? i didn't check how this was different from click
+
 
 
 //Explosion Sounds
