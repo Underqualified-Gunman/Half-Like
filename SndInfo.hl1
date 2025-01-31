@@ -24,12 +24,12 @@ weapons/plasswitch dssgcock
 
 //Displacer for BFG
 
-//weapons/bfgcharge DSOP4PLC
+weapons/bfgcharge DSOP4PLC
 
-//Desert Eagle for Bronto
-
-//weapons/brontunload	DSOP4DR1
-//weapons/brontoload	DSOP4DR2
+//gauss for Bronto
+weapons/bronto gaussf
+weapons/brontunload	gauss1
+weapons/brontoload	gauss2
 
 //Casings
 
@@ -97,13 +97,13 @@ weapons/huntrackfwd		DSSCOCK2
 
 //HAssault for Vulcanette
 
-//weapons/vulcanette1	DSOP4SA1
-//weapons/vulcanette2	DSOP4SA2
-//weapons/vulcanette3	DSOP4SA3
-//$random weapons/vulcanette	{ weapons/vulcanette1 weapons/vulcanette2 weapons/vulcanette3 }
+weapons/vulcanette1	DSOP4SA1
+weapons/vulcanette2	DSOP4SA2
+weapons/vulcanette3	DSOP4SA3
+$random weapons/vulcanette	{ weapons/vulcanette1 weapons/vulcanette2 weapons/vulcanette3 }
 
-//weapons/vulcopen1	DSOP4SAO
-//weapons/vulcshunt	DSOP4SAC
+weapons/vulcopen1	DSOP4SAO
+weapons/vulcshunt	DSOP4SAC
 
 //M40A1 for Boss
 
@@ -638,9 +638,4 @@ $random vile/stop		{ nihilanth/zap1 nihilanth/zap2 nihilanth/zap3 }
 
 herp/beep			DSTUPING
 herp/beepready		DSTULERT
-
-weapons/csawopen    dsriflod
-weapons/csawload    dsgopen
-weapons/csawclose   dsfclk
-weapons/csawtouch   dsrifclk
-weapons/csawbleh    dspocket
+$limit DSSAWIDL 1 32
